@@ -1,7 +1,7 @@
 Package.describe({
   name: "vatfree:i18n-bundler",
   summary: "Bundles your project's vatfree-i18n files and pre-loads them on the client automatically",
-  version: '0.3.0',
+  version: '0.3.1',
   git: 'https://github.com/vatfree/tap-bundler'
 });
 
